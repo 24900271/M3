@@ -38,19 +38,14 @@ int main()
     calculateEMI(principal, rate, months);
     return 0;
 }
-
+```
 
 ## OUTPUT
-Enter the principal amount: 500000
-Enter the rate of interest (annual percentage): 10
-Enter the number of months: 12
-The EMI for the loan is: 43828.37
+![Screenshot 2025-04-27 145419](https://github.com/user-attachments/assets/55fd2515-20b3-4437-b4a4-e6eed104f5f2)
 
-Enter the principal amount: 1000000
-Enter the rate of interest (annual percentage): 8
-Enter the number of months: 24
-The EMI for the loan is: 46368.09
-```
+![Screenshot 2025-04-27 145549](https://github.com/user-attachments/assets/19738669-44e7-471d-8c69-ea03de8f5bdd)
+
+
 ## RESULT
 
 Thus the program to prepare EMI calculator using function without return type with arguments has been executed successfully
@@ -91,10 +86,11 @@ int main()
     printf("\n");
     return 0;
 }
-## OUTPUT
-Fibonacci series for 6 terms: 
-0 1 1 2 3 5
 ```
+## OUTPUT
+
+![Screenshot 2025-04-27 145627](https://github.com/user-attachments/assets/0d7c4a93-f71b-4d3e-93dd-24921347ab4e)
+
 ## RESULT
 Thus the program to generate the Fibonacci series for the value 6 has been executed successfully.
  
@@ -130,17 +126,12 @@ int main()
     
     return 0;
 }
-## OUTPUT
-Enter the number of elements: 5
-Enter 5 elements:
-10 20 30 40 50
-The last element is: 50
-
-Enter the number of elements: 3
-Enter 3 elements:
-1 2 3
-The last element is: 3
 ```
+## OUTPUT
+![Screenshot 2025-04-27 145823](https://github.com/user-attachments/assets/b795a406-d85b-479c-baa0-14bbafcfffd1)
+
+![Screenshot 2025-04-27 145903](https://github.com/user-attachments/assets/f3dc4eea-7b2b-4f00-92ae-b8197ddad5f0)
+
 ## RESULT
 Thus the program to read n elements as input and print the last element of the array has been executed successfully.
  
@@ -186,17 +177,13 @@ int main() {
     
     return 0;
 }
-## OUTPUT
-Enter the number of elements: 5
-Enter 5 elements:
-10 -5 20 0 -1
-Total number of positive elements: 2
-
-Enter the number of elements: 3
-Enter 3 elements:
--1 -2 -3
-Total number of positive elements: 0
 ```
+## OUTPUT
+![Screenshot 2025-04-27 150015](https://github.com/user-attachments/assets/dad33fe7-bf2b-47a9-b073-c74766249e25)
+
+![Screenshot 2025-04-27 150049](https://github.com/user-attachments/assets/95f2219a-a651-413c-828c-8c5ddc1bde7b)
+
+
 ## RESULT
 Thus the program to count total number of positive elements in an array has been executed successfully.
 
@@ -259,19 +246,13 @@ int main() {
     
     return 0;
 }
-## Output:
-Enter the number of elements in the array: 5
-Enter the elements of the array:
-2 3 4 5 6
-Updated array:
-'E' 3 'E' 5 'E' 
-
-Enter the number of elements in the array: 4
-Enter the elements of the array:
-7 10 15 20
-Updated array:
-7 'E' 15 'E' 
 ```
+
+## Output:
+![Screenshot 2025-04-27 150212](https://github.com/user-attachments/assets/bbc12a5e-a883-4a34-9119-6767c6c5ac94)
+
+![Screenshot 2025-04-27 150409](https://github.com/user-attachments/assets/8d6b5f76-c66c-4614-884e-417d646184db)
+
 ## Result:
 
 Thus, the program to replace all even elements with 'E' in one dimensional array was verified successfully.
